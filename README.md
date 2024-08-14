@@ -48,7 +48,7 @@
 **Relation to threads & daemon:**\
 `A process can create multiple threads to perform tasks concurrently. A daemon is a type of process that runs in the background.`
 
-#### 📌[Thread]()`                                                                                                      `
+#### 📌`[Thread]()                                                                                                     `
 
 - A thread is the smallest unit of a process that can be scheduled by the operating system.
 - Threads share the same memory space and resources of the parent process but run independently.
