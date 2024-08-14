@@ -39,14 +39,16 @@
 
 ### 📌[Process]()
 
-- A process is an instance of a running program. It is the basic unit of execution in Linux.
-- Each process has its own memory space, and it can perform tasks independently.
+- A process is an instance of a running program. It is the basic unit of execution in Linux.\
+- Each process has its own memory space, and it can perform tasks independently.\
 - A process can creates other processes which are known as Child Processes.
 
-**Example:** Running firefox creates a process for the Firefox web browser. When you run **`ls -la`**, it creates a temporary process that executes the command and produces output. 
+🔄**Example:** Running firefox creates a process for the Firefox web browser. When you run **`ls -la`**, it creates a temporary process that executes the command and produces output. 
 
-**Relation to threads & daemon:**\
-`A process can create multiple threads to perform tasks concurrently. A daemon is a type of process that runs in the background.`
+⏰**Relation to threads & daemon:**\
+**`A process can create multiple threads to perform tasks concurrently. A daemon is a type of process that runs in the background.`**
+
+------------------------------------------------------------------------------------------------------------------------------
 
 ### 📌[Thread]()                                                                                                     
 
@@ -59,6 +61,8 @@
 ⏰**Relation to process:**\
 **`Threads exist within a process and share its resources. Multiple threads can run simultaneously within the same process.`**
 
+------------------------------------------------------------------------------------------------------------------------------
+
 ### 📌[Daemon]()
 
 - A daemon is a background process that runs continuously and is usually started at boot time.
@@ -66,19 +70,22 @@
 
 🔄**Example:** **`cron`** is a daemon that executes scheduled tasks & **`httpd`** handles incoming HTTP requests and serves web pages.
 
-**Relation to process:**\
+⏰**Relation to process:**\
 **`A daemon is a type of process, but it runs in the background and is detached from any terminal session.`**
+
+------------------------------------------------------------------------------------------------------------------------------
 
 ### 📌[Service]()
 
 - A service is a specific function or set of functions provided by the operating system, usually managed by a daemon.
 - Services are typically started at boot and managed by service managers like systemd.
 
-**Example:** `nginx` as a web server service that is managed by the `nginx` daemon.
+🔄**Example:** `nginx` as a web server service that is managed by the `nginx` daemon.
 
-**Relation to daemon:**\
+⏰**Relation to daemon:**\
 **`A service is provided by a daemon process. Services can involve multiple processes and threads to perform their tasks.`**
 
+------------------------------------------------------------------------------------------------------------------------------
 
 ### 📌[Relationships]()
 
