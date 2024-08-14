@@ -54,9 +54,10 @@
 - Threads share the same memory space and resources of the parent process but run independently.
 - A thread have 3 states: running, ready, and blocked
 
-**Example:** In a web server like Apache, each request might be handled by a separate thread within the same process.
+- **Example:**\
+In a web server like Apache, each request might be handled by a separate thread within the same process.
 
-**Relation to process:**\
+- **Relation to process:**\
 **`Threads exist within a process and share its resources. Multiple threads can run simultaneously within the same process.`**
 
 ### 📌[Daemon]()
