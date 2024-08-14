@@ -1,6 +1,6 @@
 - [System Administration](#System-Administration)
   - [Difference Between Linux & Windows](#Difference-Between-Linux-and-Windows)
-  - [A concise explanation of Process, Thread, Daemon, and Service](#-process-thread-daemon-service)
+  - [A concise explanation of Process, Thread, Daemon, and Service](#process-thread-daemon-service)
   - [](#)
   - [](#)
   - [](#)
