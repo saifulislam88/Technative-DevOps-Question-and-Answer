@@ -39,8 +39,8 @@
 
 ##### 📌 Process
 
-🔵 A process is an instance of a running program. It is the basic unit of execution in Linux.\
-**2.** Each process has its own memory space, and it can perform tasks independently.
+- A process is an instance of a running program. It is the basic unit of execution in Linux.\
+-  Each process has its own memory space, and it can perform tasks independently.
 
 **Example:** Running firefox creates a process for the Firefox web browser.
 
