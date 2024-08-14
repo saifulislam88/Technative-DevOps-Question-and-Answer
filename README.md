@@ -14,9 +14,9 @@
 
 
 
-### System Administration
+## System Administration
 
-#### 🚀 Difference Between Linux and Windows
+### Difference Between Linux and Windows
 
 | **Key Diff**               | **Linux OS**                                                                                     | **Windows**                                                |
 |----------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------|
@@ -35,7 +35,7 @@
 | **OS Family**              | GNU                                                                                              | DOS                                                        |
 
 
-#### 🚀 Process-Thread-Daemon-Service
+### Process-Thread-Daemon-Service
 
 #### 📌 [Process]()
 
