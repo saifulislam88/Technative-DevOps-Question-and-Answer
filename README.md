@@ -1,6 +1,14 @@
 - [System Administration](#System-Administration)
   - [Difference Between Linux & Windows](#Difference-Between-Linux-and-Windows)
-  - 
+  - [A concise explanation of process, thread, daemon, and service](#Process-Thread-Daemon-Service)
+  - [](#)
+  - [](#)
+  - [](#)
+  - [](#)
+  - [](#)
+  - [](#)
+  - [](#)
+
 
 
 
@@ -25,4 +33,16 @@
 | **Preceded by**            | Basic Terminal (CLI)                                                                             | MS-DOS                                                     |
 | **Usage**                  | Installable on a wide range of hardware (phones, tablets, consoles, mainframes, supercomputers)  | Mainly on PCs, desktops, laptops, servers                  |
 | **OS Family**              | GNU                                                                                              | DOS                                                        |
+
+
+#### Process-Thread-Daemon-Service
+
+- **Process**
+
+**1.** A process is an instance of a running program. It is the basic unit of execution in Linux.\
+**2.** Each process has its own memory space, and it can perform tasks independently.\
+**Example:** Running firefox creates a process for the Firefox web browser.
+
+**Relation to Others:**\
+`A process can create multiple threads to perform tasks concurrently. A daemon is a type of process that runs in the background.`
 
