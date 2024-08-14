@@ -39,11 +39,25 @@
 
 ##### 📌 Process
 
-- A process is an instance of a running program. It is the basic unit of execution in Linux.\
--  Each process has its own memory space, and it can perform tasks independently.
+- A process is an instance of a running program. It is the basic unit of execution in Linux.
+- Each process has its own memory space, and it can perform tasks independently.
+- A process can creates other processes which are known as Child Processes.
 
-**Example:** Running firefox creates a process for the Firefox web browser.
+**Example:** Running firefox creates a process for the Firefox web browser. When you run **`ls -la`**, it creates a temporary process that executes the command and produces output. 
 
-**Relation to Others:**\
+**Relation to threads & daemon:**\
 `A process can create multiple threads to perform tasks concurrently. A daemon is a type of process that runs in the background.`
+
+##### 📌 Thread
+
+- A thread is the smallest unit of a process that can be scheduled by the operating system.
+- Threads share the same memory space and resources of the parent process but run independently.
+- A thread have 3 states: running, ready, and blocked
+
+**Example:** In a web server like Apache, each request might be handled by a separate thread within the same process.
+
+**Relation to process:**
+Threads exist within a process and share its resources. Multiple threads can run simultaneously within the same process.
+
+
 
