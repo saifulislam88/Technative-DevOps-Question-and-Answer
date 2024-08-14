@@ -34,6 +34,8 @@
 | **Usage**                  | Installable on a wide range of hardware (phones, tablets, consoles, mainframes, supercomputers)  | Mainly on PCs, desktops, laptops, servers                  |
 | **OS Family**              | GNU                                                                                              | DOS                                                        |
 
+<br>
+<br>
 
 ## [Process-Thread-Daemon-Service]()
 
