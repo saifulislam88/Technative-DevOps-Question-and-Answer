@@ -82,9 +82,9 @@
 
 #### 📌 [Relationships]()
 
-- `A process is an independent program, while threads are the sub-units of a process, sharing its resources.`
-- `All daemons are processes, but not all processes are daemons. Daemons run in the background and provide services.`
-- `A service is typically provided by a daemon. The daemon manages the process(es) that provide the service.`
+- A process is an independent program, while threads are the sub-units of a process, sharing its resources.
+- All daemons are processes, but not all processes are daemons. Daemons run in the background and provide services.
+- A service is typically provided by a daemon. The daemon manages the process(es) that provide the service.
 
 
 
