@@ -37,6 +37,8 @@
 
 ## [Process-Thread-Daemon-Service]()
 
+Here's a concise explanation of `processes`, `threads`, `daemons`, and `services` in Linux, along with examples and their relationships:
+
 ### 📌[Process]()
 
 - A process is an instance of a running program. It is the basic unit of execution in Linux.\
