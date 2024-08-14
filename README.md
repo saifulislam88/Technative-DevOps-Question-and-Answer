@@ -10,7 +10,7 @@
 
 ### Difference Between Linux and Windows
 
-| **Key-Difference**         | **Linux OS**                                                                                     | **Windows**                                                |
+| **Key Diff**               | **Linux OS**                                                                                     | **Windows**                                                |
 |----------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | **Licensing**              | Open Source                                                                                      | Closed Source                                              |
 | **Customizable**           | Can modify & redistribute                                                                        | Can’t modify & redistribute                                |
