@@ -35,7 +35,6 @@
 | **OS Family**              | GNU                                                                                              | DOS                                                        |
 
 <br>
-<br>
 
 ## [Process-Thread-Daemon-Service]()
 
