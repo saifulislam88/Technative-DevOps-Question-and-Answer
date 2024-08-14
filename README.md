@@ -15,9 +15,7 @@
 
 
 ## System Administration🚀
-
 <br>
-
 ## [Difference between Linux and Windows]()
 
 | **Key Diff**               | **Linux OS**                                                                                     | **Windows**                                                |
