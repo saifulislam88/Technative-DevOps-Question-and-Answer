@@ -50,22 +50,20 @@
 
 ### 📌[Thread]()                                                                                                     
 
-- A thread is the smallest unit of a process that can be scheduled by the operating system.
-- Threads share the same memory space and resources of the parent process but run independently.
+- A thread is the smallest unit of a process that can be scheduled by the operating system.\
+- Threads share the same memory space and resources of the parent process but run independently.\
 - A thread have 3 states: running, ready, and blocked
 
-- **Example:**\
-In a web server like Apache, each request might be handled by a separate thread within the same process.
+🔄**Example:** In a web server like Apache, each request might be handled by a separate thread within the same process.
 
-- **Relation to process:**\
-**`Threads exist within a process and share its resources. Multiple threads can run simultaneously within the same process.`**
+**Relation to process:** **`Threads exist within a process and share its resources. Multiple threads can run simultaneously within the same process.`**
 
 ### 📌[Daemon]()
 
 - A daemon is a background process that runs continuously and is usually started at boot time.
 - Daemons typically provide system or network services.
 
-**Example:** **`cron`** is a daemon that executes scheduled tasks & **`httpd`** handles incoming HTTP requests and serves web pages.
+🔄**Example:** **`cron`** is a daemon that executes scheduled tasks & **`httpd`** handles incoming HTTP requests and serves web pages.
 
 **Relation to process:**\
 **`A daemon is a type of process, but it runs in the background and is detached from any terminal session.`**
