@@ -18,7 +18,7 @@
 | **Kernel Type**            | Monolithic                                                                                       | Hybrid                                                     |
 | **Manufacturer**           | Developed by the community (overseen by Linus Torvalds)                                          | Microsoft                                                  |
 | **File System**            | ext2, ext3, ext4, NTFS, FAT, XFS                                                                 | NTFS, FAT                                                  |
-| **Programmed in**          | C                                                                                                | Assembly, C, C++                                           |
+| **Programm**               | C                                                                                                | Assembly, C, C++                                           |
 | **Boot Time**              | Faster (drivers loaded dynamically)                                                              | Slower (all drivers loaded at boot)                        |
 | **Security**               | High                                                                                             | Lower compared to Linux                                    |
 | **License**                | GNU Public License                                                                               | Proprietary                                                |
