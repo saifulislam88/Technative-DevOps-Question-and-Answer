@@ -6,9 +6,9 @@
 
 
 
-## System Administration
+### System Administration
 
-### Difference Between Linux and Windows
+#### Difference Between Linux and Windows
 
 | **Key Diff**               | **Linux OS**                                                                                     | **Windows**                                                |
 |----------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------|
