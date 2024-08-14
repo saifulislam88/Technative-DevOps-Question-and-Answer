@@ -14,7 +14,7 @@
 
 
 
-### 🚀 System Administration
+### 🚀System Administration
 
 #### [Difference Between Linux and Windows]()
 
@@ -37,7 +37,7 @@
 
 #### [Process-Thread-Daemon-Service]()
 
-#### 📌 [Process]()
+#### 📌[Process]()
 
 - A process is an instance of a running program. It is the basic unit of execution in Linux.
 - Each process has its own memory space, and it can perform tasks independently.
@@ -48,7 +48,7 @@
 **Relation to threads & daemon:**\
 `A process can create multiple threads to perform tasks concurrently. A daemon is a type of process that runs in the background.`
 
-#### 📌 [Thread]()
+#### 📌[Thread]()
 
 - A thread is the smallest unit of a process that can be scheduled by the operating system.
 - Threads share the same memory space and resources of the parent process but run independently.
@@ -59,7 +59,7 @@
 **Relation to process:**\
 **`Threads exist within a process and share its resources. Multiple threads can run simultaneously within the same process.`**
 
-#### 📌 [Daemon]()
+#### 📌[Daemon]()
 
 - A daemon is a background process that runs continuously and is usually started at boot time.
 - Daemons typically provide system or network services.
@@ -69,7 +69,7 @@
 **Relation to process:**\
 **`A daemon is a type of process, but it runs in the background and is detached from any terminal session.`**
 
-#### 📌 [Service]()
+#### 📌[Service]()
 
 - A service is a specific function or set of functions provided by the operating system, usually managed by a daemon.
 - Services are typically started at boot and managed by service managers like systemd.
@@ -80,7 +80,7 @@
 **`A service is provided by a daemon process. Services can involve multiple processes and threads to perform their tasks.`**
 
 
-#### 📌 [Relationships]()
+#### 📌[Relationships]()
 
 - A process is an independent program, while threads are the sub-units of a process, sharing its resources.
 - All daemons are processes, but not all processes are daemons. Daemons run in the background and provide services.
