@@ -67,7 +67,7 @@
 **Example:** **`cron`** is a daemon that executes scheduled tasks & **`httpd`** handles incoming HTTP requests and serves web pages.
 
 **Relation to process:**\
-A daemon is a type of process, but it runs in the background and is detached from any terminal session.
+**`A daemon is a type of process, but it runs in the background and is detached from any terminal session.`**
 
 #### 📌 [Service]()
 
@@ -77,14 +77,14 @@ A daemon is a type of process, but it runs in the background and is detached fro
 **Example:** `nginx` as a web server service that is managed by the `nginx` daemon.
 
 **Relation to daemon:**\
-A service is provided by a daemon process. Services can involve multiple processes and threads to perform their tasks.
+**`A service is provided by a daemon process. Services can involve multiple processes and threads to perform their tasks.`**
 
 
 #### 📌 [Relationships]()
 
-- A process is an independent program, while threads are the sub-units of a process, sharing its resources.
-- All daemons are processes, but not all processes are daemons. Daemons run in the background and provide services.
-- A service is typically provided by a daemon. The daemon manages the process(es) that provide the service
+- `A process is an independent program, while threads are the sub-units of a process, sharing its resources.`
+- `All daemons are processes, but not all processes are daemons. Daemons run in the background and provide services.`
+- `A service is typically provided by a daemon. The daemon manages the process(es) that provide the service.`
 
 
 
