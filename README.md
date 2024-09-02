@@ -3,7 +3,7 @@
   - [Difference between Linux & Windows](#Difference-Between-Linux-and-Windows)
   - 
   - [A concise explanation of Process, Thread, Daemon, and Service](#process-thread-daemon-service)
-  - [Hardware Sizing Planning for Application](#Hardware-Sizing-Planning-for-Application)
+  - [Hardware/Resource Sizing Planning(BOQ)](#Hardware-Sizing-Planning-for-Application)
   - [](#)
   - [](#)
   - [](#)
