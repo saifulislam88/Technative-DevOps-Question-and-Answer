@@ -102,7 +102,7 @@ Here's a concise explanation of `processes`, `threads`, `daemons`, and `services
 
 
 
-## Hardware Sizing Planning for Application
+## [Hardware Sizing Planning for Application](#Hardware-Sizing-Planning-for-Application)
 
 ### Definitions:
 
