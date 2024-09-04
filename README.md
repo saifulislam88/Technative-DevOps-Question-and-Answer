@@ -147,18 +147,18 @@ Here's a concise explanation of `processes`, `threads`, `daemons`, and `services
 - **Optimization**: Regularly review and optimize server configurations based on usage patterns and performance data.
 
 
-## [Approach and Process plan to Upgrade a Live Production System - Key Considerations]()
+## [To Upgrade a Live Production System - Key Considerations]()
 
 **Question:** You are tasked with upgrading a live production system/cluster/server/application to a new version that also requires an underlying OS upgrade. The upgrade must be performed with minimal downtime and without impacting ongoing operations. Describe your approach to planning and executing this upgrade. Specifically, how would you manage the upgrade of nodes/servers, handle workloads or application traffic, and validate the success of the upgrade to ensure a smooth transition?
 
 ### [**Step 1: Pre-Upgrade Preparation**]()
 
-1. **Assess Requirements**: Determine the dependencies and changes required for the new version.\
-2. **Backup Configuration and Data**: Backup system/cluster configurations, databases, and any critical data.\
-3. **Review Compatibility**: Check for any deprecated features, breaking changes, or application compatibility issues between current and new versions.\
-4. **Test in Staging**: Set up a staging environment replicating the production setup to test the entire upgrade process.\
-5. **Prepare Upgradation Runbook**: Document the upgrade process, including steps, monitoring of system performance, logs, and health checks.\
-6. **Schedule Maintenance Windows**: Notify all stakeholders and teams about the upgrade schedule and potential impacts.\
+1. **Assess Requirements**: Determine the dependencies and changes required for the new version. \
+2. **Backup Configuration and Data**: Backup system/cluster configurations, databases, and any critical data. \
+3. **Review Compatibility**: Check for any deprecated features, breaking changes, or application compatibility issues between current and new versions. \
+4. **Test in Staging**: Set up a staging environment replicating the production setup to test the entire upgrade process. \
+5. **Prepare Upgradation Runbook**: Document the upgrade process, including steps, monitoring of system performance, logs, and health checks. \
+6. **Schedule Maintenance Windows**: Notify all stakeholders and teams about the upgrade schedule and potential impacts. \
 7. **Rollback Plan**: Have a rollback plan ready if the upgrade does not proceed as expected.
 
 
