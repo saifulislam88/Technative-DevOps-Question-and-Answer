@@ -1,7 +1,6 @@
 - [System Administration](#System-Administration)
   - [Linux Architecture]()
   - [Difference between Linux & Windows](#Difference-Between-Linux-and-Windows)
-  - 
   - [A concise explanation of Process, Thread, Daemon, and Service](#process-thread-daemon-service)
   - [Hardware/Resource Sizing Planning(BOQ)](#Hardware-Sizing-Planning-for-Application)
   - [To Upgrade a Live Production System - Key Considerations](#to-upgrade-a-live-production-system---key-considerations)
@@ -19,7 +18,7 @@
 ## System Administration🚀
 <br>
 
-## [Difference between Linux and Windows]()
+## 🌐[Difference between Linux and Windows]()
 
 | **Key Diff**               | **Linux OS**                                                                                     | **Windows**                                                |
 |----------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------|
@@ -39,7 +38,7 @@
 
 <br>
 
-## [Process-Thread-Daemon-Service]()
+## 🌐[Process-Thread-Daemon-Service]()
 
 Here's a concise explanation of `processes`, `threads`, `daemons`, and `services` in Linux, along with examples and their relationships:
 
@@ -102,7 +101,7 @@ Here's a concise explanation of `processes`, `threads`, `daemons`, and `services
 
 
 
-## [Hardware Sizing Planning for Application](#Hardware-Sizing-Planning-for-Application)
+## 🌐[Hardware Sizing Planning for Application](#Hardware-Sizing-Planning-for-Application)
 
 ### Definitions:
 
@@ -148,7 +147,7 @@ Here's a concise explanation of `processes`, `threads`, `daemons`, and `services
 
 
 
-## [To Upgrade a Live Production System - Key Considerations](#to-upgrade-a-live-production-system---key-considerations)
+## 🌐[To Upgrade a Live Production System - Key Considerations](#to-upgrade-a-live-production-system---key-considerations)
 
 **Question:** You are tasked with upgrading a live production system/cluster/server/application to a new version that also requires an underlying OS upgrade. The upgrade must be performed with minimal downtime and without impacting ongoing operations. Describe your approach to planning and executing this upgrade. Specifically, how would you manage the upgrade of nodes/servers, handle workloads or application traffic, and validate the success of the upgrade to ensure a smooth transition?
 
