@@ -90,7 +90,6 @@ Here's a concise explanation of `processes`, `threads`, `daemons`, and `services
 ⏰**Relation to daemon:**\
 **`A service is provided by a daemon process. Services can involve multiple processes and threads to perform their tasks.`**
 
-------------------------------------------------------------------------------------------------------------------------------
 
 ### 📌[Relationships]()
 
@@ -99,6 +98,7 @@ Here's a concise explanation of `processes`, `threads`, `daemons`, and `services
 - A service is typically provided by a daemon. The daemon manages the process(es) that provide the service.
 
 
+------------------------------------------------------------------------------------------------------------------------------
 
 
 ## 🌐[Hardware Sizing Planning for Application](#Hardware-Sizing-Planning-for-Application)
@@ -145,7 +145,7 @@ Here's a concise explanation of `processes`, `threads`, `daemons`, and `services
 
 - **Optimization**: Regularly review and optimize server configurations based on usage patterns and performance data.
 
-
+------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌐[To Upgrade a Live Production System - Key Considerations](#to-upgrade-a-live-production-system---key-considerations)
 
