@@ -227,8 +227,11 @@ Observability is ... being able answer questions about your system. In IT, Obser
    - Making a system observable doesn't guarantee 100% availability, but can drastically reduce downtime
 
 - 🟢Performance:
-   - Slow applications frustrate users, leading to lower customer satisfaction • Amazon: every 100ms of additional latency resulted in a 1% decrease in revenue
+   - Slow applications frustrate users, leading to lower customer satisfaction 
+   - Amazon: every 100ms of additional latency resulted in a 1% decrease in revenue
 
 - 🟢Costs:
    - A more performant application requires fewer computing resources, which directly lowers cloud usage costs
+
+<img src=https://github.com/user-attachments/assets/7c0a367f-6064-4002-906a-b594a3fb77cb width="800" height="400"/>
 
