@@ -12,8 +12,8 @@
 
 - [Database](#Database)
   - [Point-in-time recovery(PITR)](#)
-
-
+- [DevOps](#DevOps)
+  - [Observability](#Observability) 
 
 ## System Administration🚀
 <br>
@@ -204,4 +204,26 @@ graph TD
     Q --> R[Upgrade Completed Successfully]
 ```
 
+## DevOps
+
+### Observability
+
+Observability is ... being able answer questions about your system. In IT, Observability is defined as the ability to measure a system’s current state based on the output data (such as logs, metrics, and traces) it generates.
+
+🌟How is the system performing right now?\
+🌟How does its performance compare to an hour ago?\
+🌟Why are some requests failing?\
+🌟Why are certain requests taking longer than expected?
+
+🔥**Why do we need observability?**
+
+- 🟢Availability:
+ - Your app can make money only when it's available for users
+ - Making a system observable doesn't guarantee 100% availability, but can drastically reduce downtime
+
+- 🟢Performance:
+ - Slow applications frustrate users, leading to lower customer satisfaction • Amazon: every 100ms of additional latency resulted in a 1% decrease in revenue
+
+- 🟢Costs:
+ - A more performant application requires fewer computing resources, which directly lowers cloud usage costs
 
