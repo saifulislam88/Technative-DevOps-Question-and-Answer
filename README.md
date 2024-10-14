@@ -215,6 +215,11 @@ Observability is ... being able answer questions about your system. In IT, Obser
 🌟Why are some requests failing?\
 🌟Why are certain requests taking longer than expected?
 
+< img src=https://github.com/user-attachments/assets/3a6f54b8-3a31-45cf-bebb-8d25e8a76078 width="800" height="400"/> </a>
+
+
+
+
 🔥**Why do we need observability?**
 
 - 🟢Availability:
