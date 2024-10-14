@@ -233,5 +233,5 @@ Observability is ... being able answer questions about your system. In IT, Obser
 - 🟢Costs:
    - A more performant application requires fewer computing resources, which directly lowers cloud usage costs
 
-<img src=https://github.com/user-attachments/assets/7c0a367f-6064-4002-906a-b594a3fb77cb width="800" height="400"/>
+<img src=https://github.com/user-attachments/assets/7c0a367f-6064-4002-906a-b594a3fb77cb width="900" height="500"/>
 
