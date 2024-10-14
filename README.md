@@ -217,7 +217,15 @@ Observability is ... being able answer questions about your system. In IT, Obser
 
 <img src=https://github.com/user-attachments/assets/3a6f54b8-3a31-45cf-bebb-8d25e8a76078 width="800" height="400"/>
 
+🔥**Top Observability Tools for Kubernetes Pods Monitoring**
 
+🌟Prometheus & Grafana\
+🌟Datadog\
+🌟New Relic\
+🌟Coroot\
+🌟Elastic Stack (ELK)\
+🌟Sysdig\
+🌟Kube-state-metrics
 
 
 🔥**Why do we need observability?**
@@ -235,3 +243,15 @@ Observability is ... being able answer questions about your system. In IT, Obser
 
 <img src=https://github.com/user-attachments/assets/7c0a367f-6064-4002-906a-b594a3fb77cb width="900" height="500"/>
 
+
+🔥**Collecting telemetry data**
+
+- SLI (Service Level Indicators): requests, errors, latency
+- Communication with other services or databases: requests, errors, latency
+- Resource-related metrics: CPU, Memory, Disk
+- Network-related metrics: latency, connectivity, packet loss
+- Node-level metrics and logs
+- Runtime-related metrics: GC, Thread Pools, Connection pools, Locks
+- Orchestrator-related metrics
+- Logs to identify application-specific issues
+- Profiles to explain spikes in CPU or Memory usage
