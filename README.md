@@ -219,7 +219,7 @@ Observability is ... being able answer questions about your system. In IT, Obser
 
 - 🟢Availability:
    - Your app can make money only when it's available for users
- - Making a system observable doesn't guarantee 100% availability, but can drastically reduce downtime
+   - Making a system observable doesn't guarantee 100% availability, but can drastically reduce downtime
 
 - 🟢Performance:
    - Slow applications frustrate users, leading to lower customer satisfaction • Amazon: every 100ms of additional latency resulted in a 1% decrease in revenue
