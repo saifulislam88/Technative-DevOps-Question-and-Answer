@@ -13,7 +13,8 @@
 - [Database](#Database)
   - [Point-in-time recovery(PITR)](#)
 - [DevOps](#DevOps)
-  - [Observability](#Observability) 
+  - [Observability](#Observability)
+- Docker
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -257,3 +258,17 @@ Observability is ... being able answer questions about your system. In IT, Obser
 - Orchestrator-related metrics
 - Logs to identify application-specific issues
 - Profiles to explain spikes in CPU or Memory usage
+
+
+
+### Docker
+
+Reduce Docker Image Size - From 1GB to 150MB!
+
+Docker images can become unnecessarily large, slowing down deployments and increasing risks. Here's how you can optimize them:
+
+- [1] Multi-Stage Builds: Separate build tools from your final image to reduce size.
+
+- [2] Lightweight Base Images: Use minimal images like Alpine for a smaller footprint.
+
+- [3] Combine Commands: Merge steps in your Dockerfile to create fewer layers.
