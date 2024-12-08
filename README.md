@@ -9,7 +9,9 @@
   - [](#)
   - [](#)
   - [](#)
-
+    
+- [Web Server](#Web-server)
+  - []
 - [Database](#Database)
   - [Point-in-time recovery(PITR)](#)
 - [DevOps](#DevOps)
@@ -259,6 +261,15 @@ Observability is ... being able answer questions about your system. In IT, Obser
 - Logs to identify application-specific issues
 - Profiles to explain spikes in CPU or Memory usage
 
+### Web Server
+
+**Q1.** According to an HTTP monitor, a website is down. You're able to telnet to the port, so how do you resolve the issue❓
+
+    Assuming the web page is up, I would investigate what could be wrong with the monitor.\
+    - Verify the HTTP Response
+    - It could be a system overload or flapping, among other issues.
+    - Check the Web Server Logs
+    - Check the Application Backend
 
 
 ### Docker
