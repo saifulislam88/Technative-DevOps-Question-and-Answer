@@ -12,6 +12,7 @@
     
 - [Web Server](#Web-server)
   - []
+- [Networking and Load Balancing](#Networking-and-Load-Balancing)
 - [Database](#Database)
   - [Point-in-time recovery(PITR)](#)
 - [DevOps](#DevOps)
@@ -265,7 +266,7 @@ Observability is ... being able answer questions about your system. In IT, Obser
 
 **Q1.** According to an HTTP monitor, a website is down. You're able to telnet to the port, so how do you resolve the issue❓
 
-Assuming the web page is up, I would investigate what could be wrong with the monitor.\
+Assuming the web page is up, I would investigate what could be wrong with the monitor.
   - Verify the HTTP Response
   - It could be a system overload or flapping, among other issues.
   - Check the Web Server Logs
